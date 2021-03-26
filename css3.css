@@ -1,0 +1,11 @@
+ol {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: medium;
+    background-color: coral;
+    color: rgb(255, 255, 255);
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+}
